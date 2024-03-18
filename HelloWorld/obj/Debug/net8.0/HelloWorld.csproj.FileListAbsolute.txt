@@ -12,3 +12,4 @@
 /home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
 /home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
 /home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
