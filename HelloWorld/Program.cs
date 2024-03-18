@@ -46,13 +46,25 @@ namespace HelloWorld
             // System.Console.WriteLine("{0}", str.Remove(10, 6));
             // System.Console.WriteLine("{0}", str.Replace("string", "sentence"));
 
-            object[] ranArr = { "mel", 10, 1.23 };
+            // object[] ranArr = { "mel", 10, 1.23 };
 
-            for (int i = 0; i < ranArr.Length; i++)
-            {
-                System.Console.Write("{0} ->  ", ranArr[i]);
-                System.Console.WriteLine("{0}", ranArr[i].GetType());
-            }
+            // for (int i = 0; i < ranArr.Length; i++)
+            // {
+            //     System.Console.Write("{0} ->  ", ranArr[i]);
+            //     System.Console.WriteLine("{0}", ranArr[i].GetType());
+            // }
+
+            // ranArr.SetValue('A', 1);
+            // System.Console.WriteLine("-------reverse array-------");
+
+            // Array.Reverse(ranArr);
+            // for (int i = 0; i < ranArr.Length; i++)
+            // {
+            //     System.Console.Write("{0} ->  ", ranArr[i]);
+            //     System.Console.WriteLine("{0}", ranArr[i].GetType());
+            // }
+
+
         }
     }
 }
