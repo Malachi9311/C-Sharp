@@ -1,0 +1,14 @@
+/home/malachi/C-Sharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/malachi/C-Sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/malachi/C-Sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/malachi/C-Sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/malachi/C-Sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/malachi/C-Sharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
