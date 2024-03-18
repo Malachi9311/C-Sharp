@@ -58,7 +58,7 @@ namespace ConsoleApp2
             }
             set
             {
-                if (value.Length > 0)
+                if (value.Length > 10)
                 {
                     sound = "No Sound";
                     System.Console.WriteLine("Sound is too long");
