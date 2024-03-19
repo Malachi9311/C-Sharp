@@ -31,7 +31,9 @@ namespace ConsoleApp3
             cat.GetAnimalIDInfo();
             dog.GetAnimalIDInfo();
 
+            Animal.AnimalHealth healthy = new Animal.AnimalHealth();
 
+            System.Console.WriteLine("this animal is healthy: {0}", healthy.HealthyWeight(11, 46));
         }
     }
 }
