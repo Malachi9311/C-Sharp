@@ -10,7 +10,11 @@
             {
                 shape.GetInfo();
                 System.Console.WriteLine("{0} -> Area: {1:f2}", shape.Name, shape.Area());
+                System.Console.WriteLine("-------");
             }
+
+            shapes[0].GetInfo();
+            shapes[1].GetInfo();
         }
     }
 }
