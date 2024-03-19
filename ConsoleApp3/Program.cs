@@ -24,6 +24,14 @@ namespace ConsoleApp3
 
             cat.MakeSound();
             dog.MakeSound();
+
+            cat.SetAnimalIDInfo(12345, "Mera");
+            dog.SetAnimalIDInfo(67890, "Malachi");
+
+            cat.GetAnimalIDInfo();
+            dog.GetAnimalIDInfo();
+
+
         }
     }
 }

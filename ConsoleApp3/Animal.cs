@@ -26,7 +26,7 @@ namespace ConsoleApp3
 
         public virtual void MakeSound()
         {
-            System.Console.WriteLine($"{Name} say {Sound}");
+            System.Console.WriteLine($"{Name} says {Sound}");
         }
 
         public Animal() : this("No Name", "No Sound") { }
@@ -35,8 +35,8 @@ namespace ConsoleApp3
 
         public Animal(string name, string sound)
         {
-            string? Name = name;
-            string? Sound = sound;
+            Name = name;
+            Sound = sound;
         }
 
         public string Name
@@ -44,14 +44,11 @@ namespace ConsoleApp3
             get { return name; }
             set
             {
-                if (!name.Any(char.IsDigit))
+                if (value.Any(char.IsDigit) == false)
                 {
                     name = "No Name";
                 }
-                else
-                {
-                    name = value;
-                }
+                name = value;
             }
         }
 
@@ -60,14 +57,11 @@ namespace ConsoleApp3
             get { return sound; }
             set
             {
-                if (!sound.Any(char.IsDigit))
+                if (value.Length > 10)
                 {
                     sound = "No Sound";
                 }
-                else
-                {
-                    sound = value;
-                }
+                sound = value;
             }
         }
 

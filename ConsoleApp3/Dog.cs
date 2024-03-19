@@ -8,8 +8,16 @@ namespace ConsoleApp3
 {
     class Dog : Animal
     {
+        private string sound2 = "";
         // Additional Properties.
-        public string Sound2 { get; set; } = "Grrrr";
+        public string Sound2
+        {
+            get { return "Grrrr"; }
+            set
+            {
+                sound2 = value;
+            }
+        }
 
         public override void MakeSound()
         {
