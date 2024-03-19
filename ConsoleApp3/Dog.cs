@@ -21,7 +21,7 @@ namespace ConsoleApp3
 
         public override void MakeSound()
         {
-            System.Console.WriteLine($"{Name} say {Sound} and {Sound2}.");
+            System.Console.WriteLine($"{Name} says {Sound} and {Sound2}.");
         }
 
         public Dog(string name = "No Name", string sound = "No Sound", string sound2 = "No Sound2")
