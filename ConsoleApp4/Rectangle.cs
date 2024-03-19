@@ -15,5 +15,11 @@ namespace ConsoleApp4
         {
             return Length * Width;
         }
+
+        public override void GetInfo()
+        {
+            base.GetInfo();
+            System.Console.WriteLine($"A {Name} has a length of {Length} and width of {Width}");
+        }
     }
 }
