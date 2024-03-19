@@ -1,0 +1,15 @@
+/home/malachi/C-Sharp/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3
+/home/malachi/C-Sharp/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.deps.json
+/home/malachi/C-Sharp/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.runtimeconfig.json
+/home/malachi/C-Sharp/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.dll
+/home/malachi/C-Sharp/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.pdb
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.AssemblyInfoInputs.cache
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.AssemblyInfo.cs
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.sourcelink.json
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.dll
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/refint/ConsoleApp3.dll
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.pdb
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.genruntimeconfig.cache
+/home/malachi/C-Sharp/ConsoleApp3/obj/Debug/net8.0/ref/ConsoleApp3.dll

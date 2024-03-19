@@ -1,9 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace ConsoleApp3
 {
     class Animal
     {
-        private string name;
-        protected string sound;
+        private string name = "";
+        protected string sound = "";
 
         protected AnimalIDInfo animalIDInfo = new AnimalIDInfo();
 
@@ -29,8 +35,8 @@ namespace ConsoleApp3
 
         public Animal(string name, string sound)
         {
-            Name = name;
-            Sound = sound;
+            string? Name = name;
+            string? Sound = sound;
         }
 
         public string Name
