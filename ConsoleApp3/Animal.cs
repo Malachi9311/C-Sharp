@@ -18,7 +18,7 @@ namespace ConsoleApp3
             System.Console.WriteLine($"{name} has the ID of {animalIDInfo.IDNum} and is owned by {animalIDInfo.Owner}");
         }
 
-        public virtual void Makesound()
+        public virtual void MakeSound()
         {
             System.Console.WriteLine($"{Name} say {Sound}");
         }
@@ -62,6 +62,19 @@ namespace ConsoleApp3
                 {
                     sound = value;
                 }
+            }
+        }
+
+        public class AnimalHealth
+        {
+            public bool HealthyWeight(double weight, double height)
+            {
+                double calc = height / weight;
+                if ((calc >= .18) && (calc <= .27))
+                {
+                    return true;
+                }
+                return false;
             }
         }
     }
