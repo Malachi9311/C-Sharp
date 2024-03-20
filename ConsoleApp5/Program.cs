@@ -8,6 +8,13 @@
 
             toyota.Move();
             toyota.Stop();
+
+            bool isInstance = toyota is IDrivable;
+            System.Console.WriteLine($"{isInstance}");
+
+            System.Console.WriteLine("-------------");
+
+
         }
     }
 }
