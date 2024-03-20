@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Warrior ironman = new Warrior("Ironman", 245, 23, 23);
-            Warrior thor = new Warrior("Thor", 245, 31, 10);
+            Warrior ironman = new Warrior("Ironman", 100, 23, 23);
+            MagicWarrior thor = new MagicWarrior("Thor", 100, 31, 10, 10);
 
             Battle.StartFight(ironman, thor);
         }
