@@ -6,7 +6,17 @@ namespace ConsoleApp6
         {
             while (true)
             {
+                if (GetAttackResult(warrior1, warrior2) == "Game Over")
+                {
+                    System.Console.WriteLine("Game Over");
+                    break;
+                }
 
+                if (GetAttackResult(warrior2, warrior1) == "Game Over")
+                {
+                    System.Console.WriteLine("Game Over");
+                    break;
+                }
             }
         }
 
