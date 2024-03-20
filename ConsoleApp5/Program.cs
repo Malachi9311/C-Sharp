@@ -14,6 +14,14 @@
 
             System.Console.WriteLine("-------------");
 
+            IElectronicDevice tv = TVRemote.GetDevice();
+            System.Console.WriteLine(tv.GetType());
+            PowerButton powerButton = new PowerButton(tv);
+
+            powerButton.Execute();
+            powerButton.Undo();
+            powerButton.Execute();
+            powerButton.Undo();
 
         }
     }
