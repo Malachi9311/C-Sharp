@@ -3,6 +3,9 @@ namespace ConsoleApp5
     class Vehicle : IDrivable
     {
         public string Brand { get; set; } = "";
+        public int Wheels { get; set; }
+
+        public double Speed { get; set; }
 
         public Vehicle(string brand = "No brand", int wheels = 0, double speed = 0)
         {
@@ -11,9 +14,7 @@ namespace ConsoleApp5
             Speed = speed;
         }
 
-        public int Wheels { get; set; }
 
-        public double Speed { get; set; }
 
         public void Move()
         {
