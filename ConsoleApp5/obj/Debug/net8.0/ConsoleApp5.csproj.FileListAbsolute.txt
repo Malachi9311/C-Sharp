@@ -1,0 +1,15 @@
+/home/malachi/C-Sharp/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5
+/home/malachi/C-Sharp/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.deps.json
+/home/malachi/C-Sharp/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.runtimeconfig.json
+/home/malachi/C-Sharp/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.dll
+/home/malachi/C-Sharp/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.pdb
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.AssemblyInfoInputs.cache
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.AssemblyInfo.cs
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.sourcelink.json
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.dll
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/refint/ConsoleApp5.dll
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.pdb
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.genruntimeconfig.cache
+/home/malachi/C-Sharp/ConsoleApp5/obj/Debug/net8.0/ref/ConsoleApp5.dll
